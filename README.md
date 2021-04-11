@@ -3,6 +3,8 @@
 
 Day 1: April 11th 2021
 
-Statistics:
+Statistics: Correlation
+-It ranges from -1 to 1 
+-Has no unit associated with it
 
 
