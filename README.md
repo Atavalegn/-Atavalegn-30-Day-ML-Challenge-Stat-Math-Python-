@@ -8,3 +8,5 @@ Statistics: Correlation
 -Has no unit associated with it
 
 
+Day 2: April 12th 2021
+
