@@ -10,3 +10,13 @@ Statistics: Correlation
 
 Day 2: April 12th 2021
 
+Statistics: Correlation
+-Exact steps to compute Standard Deviation
+-Formula illustration to get correlation coefficient
+
+Statistics: Basic Probability
+
+
+
+
+
