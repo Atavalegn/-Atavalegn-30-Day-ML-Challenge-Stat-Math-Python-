@@ -17,6 +17,9 @@ Statistics: Correlation
 -Formula illustration to get correlation coefficient
 
 Statistics: Basic Probability
+Intuition - Schlitz case study
+Expected value
+Law of large numbers
 
 
 
