@@ -21,6 +21,11 @@ Intuition - Schlitz case study
 Expected value
 Law of large numbers
 
+Python : till Object Type
+
+Day 3: April 13th 2021
+
+Python: 
 
 
 
