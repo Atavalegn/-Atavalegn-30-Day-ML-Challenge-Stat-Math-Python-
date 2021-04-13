@@ -31,6 +31,8 @@ Generate second max from a list
 Statistics : Probability
 >Credit card default assessment
 >Monty Hall problem
+- Issues with probability
+
 
 
 
