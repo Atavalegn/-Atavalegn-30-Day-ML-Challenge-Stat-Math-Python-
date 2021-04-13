@@ -28,6 +28,10 @@ Day 3: April 13th 2021
 Python: Data types, number types in Py, random number generation, casting
 Generate second max from a list
 
+Statistics : Probability
+>Credit card default assessment
+>Monty Hall problem
+
 
 
 
