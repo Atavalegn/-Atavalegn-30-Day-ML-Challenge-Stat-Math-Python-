@@ -25,7 +25,7 @@ Python : till Object Type
 
 Day 3: April 13th 2021
 
-Python: 
+Python: Data types, number types in Py, random number generation, casting
 
 
 
