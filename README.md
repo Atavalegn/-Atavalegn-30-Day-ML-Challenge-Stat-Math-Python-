@@ -33,8 +33,20 @@ Statistics : Probability
 >Monty Hall problem
 - Issues with probability
 
+Day 4: April 14th 2021
 
+Statistics: Probability
+-Errors associated with probability
+>Assuming events are independent when they are not
+>Not knowing when events are independent
+>Clusters happen
+>Prosecutor's fallacy
+>Reversion to the mean
+>Statistical discrimination
 
+Python: Strings and operations
+
+Day 5:April 15th
 
 
 
