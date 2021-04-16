@@ -52,7 +52,9 @@ Python: Strings and Operations
 
 Day 6: April 16th
 
-
+Statistics: Importance of Data
+- Garbage in, Garbage out
+- 
 
 
 
