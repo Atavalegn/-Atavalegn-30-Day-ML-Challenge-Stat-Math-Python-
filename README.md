@@ -48,6 +48,11 @@ Python: Strings and operations
 
 Day 5:April 15th
 
+Python: Strings and Operations
+
+Day 6: April 16th
+
+
 
 
 
