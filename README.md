@@ -54,6 +54,11 @@ Day 6: April 16th
 
 Statistics: Importance of Data
 - Garbage in, Garbage out
+- Example of survey results
+
+Python: String
+- Slicing
+- Modifying- replace, split, lower, upper, remove whitespace
 - 
 
 
